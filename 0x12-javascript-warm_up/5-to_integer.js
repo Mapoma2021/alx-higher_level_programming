@@ -5,4 +5,3 @@ if (isNaN(args)) {
 } else {
   console.log('My number: ' + args);
 }
-

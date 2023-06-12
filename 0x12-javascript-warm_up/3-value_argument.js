@@ -5,4 +5,3 @@ if (count === undefined) {
 } else {
   console.log(count);
 }
-
